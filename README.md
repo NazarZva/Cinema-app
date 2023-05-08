@@ -58,6 +58,7 @@ This project is an imitation of the operation of a cinema. The program is develo
 ![img_3.png](img_3.png)
 * Complete order
 ![img_2.png](img_2.png)
+# Also, you can use my Postman request [collection](https://warped-trinity-563512.postman.co/workspace/Nazar~f0c56656-ead1-4c1b-bab6-7b33d2e9a2ed/collection/7321309-0945856c-34ad-4001-826c-be0f39167396?action=share&creator=7321309)
 # Used technologies
 * Java ```v.17.0.5```
 * Maven ```v.3.8.7```
